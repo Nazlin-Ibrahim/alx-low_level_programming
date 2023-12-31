@@ -1,10 +1,6 @@
 #include "main.h"
 
-/**
- * get_endianness - checks the endianness
- *
- * Return: 0 if big endian, 1 if little endian
- */
+// Write a function that prints the binary representation of a number.
 int get_endianness(void)
 {
 	unsigned int x;
